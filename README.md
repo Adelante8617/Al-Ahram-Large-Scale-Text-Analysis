@@ -8,7 +8,7 @@
 ## 作者
 黄柏喻 @Adelante8617
 
-沈靖期 @blukyshen 
+沈靖期 @[blukyshen](https://github.com/blukyshen) 
 
 翁维
 
@@ -31,11 +31,24 @@
 
 ## 部分结果可视化
 
-关键词共现热力图（*点击图片跳转至可交互版本*）
+我们的图像主要使用Matplotlib、Seaborn、Plotly.js 制作。
+
+对图像内容的解读见论文。
+
+### 关键词共现热力图（*点击图片跳转至可交互版本*）
 
 <a href="https://adelante8617.github.io/Al-Ahram-Large-Scale-Text-Analysis/heatmap.html">
-   <img src="https://github.com/Adelante8617/Al-Ahram-Large-Scale-Text-Analysis/blob/main/docs/heatmap_static.png" alt="Heatmap" width="300" />
+   <img src="https://github.com/Adelante8617/Al-Ahram-Large-Scale-Text-Analysis/blob/main/docs/heatmap_static.png" alt="Heatmap" width="800" />
 </a>
+
+### 归一化的主题-情感分布图
+
+<img src="https://github.com/Adelante8617/Al-Ahram-Large-Scale-Text-Analysis/blob/main/docs/Normalized%20Emotion%20Distribution.png" alt="Sentiment-Topic Co-occurence" width="800" />
+
+### 情感度量重设前后堆叠的类别分布图
+
+<img src="https://github.com/Adelante8617/Al-Ahram-Large-Scale-Text-Analysis/blob/main/docs/stacked_bar_chart.png" alt="Stacked Types Comparison" width="800" />
+
 
 ## 致谢
 
