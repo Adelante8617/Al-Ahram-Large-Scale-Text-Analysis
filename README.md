@@ -1,11 +1,15 @@
-# 《金字塔报》在2011年埃及革命中的话语分析： 基于大模型的大规模文本挖掘研究
-# Al-Ahram-Large-Scale-Text-Analysis
+# 《金字塔报》在2011年埃及革命中的话语分析： 
+## 基于大模型的大规模文本挖掘研究
+
+# Al-Ahram: Large Scale Text Analysis
 
 本项目为 **北京大学[第三十三届“挑战杯”系列](https://bbs.pku.edu.cn/v2/post-read.php?bid=454&threadid=18858837)赛事作品**
 
 ## 作者
 黄柏喻 @Adelante8617
+
 沈靖期 @blukyshen 
+
 翁维
 
 ## 关键词
