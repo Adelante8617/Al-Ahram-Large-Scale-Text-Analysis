@@ -26,7 +26,7 @@ some html (to be updated)
 
 Thanks to PKU.
 
-<a href="https://github.com/Adelante8617/Al-Ahram-Large-Scale-Text-Analysis/blob/main/docs/heatmap.html">
-   
+<a href="https://adelante8617.github.io/Al-Ahram-Large-Scale-Text-Analysis/blob/main/docs/heatmap.html">
+   <img src="https://github.com/Adelante8617/Al-Ahram-Large-Scale-Text-Analysis/blob/main/docs/pan1.png" alt="Heatmap" />
 </a>
 
